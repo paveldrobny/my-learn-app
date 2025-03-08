@@ -1,6 +1,6 @@
 {
-  "name": "learn-app-demo",
-  "homepage": "https://paveldrobny.github.io/learn-app-demo",
+  "name": "my-learn-app",
+  "homepage": "https://paveldrobny.github.io/my-learn-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
